@@ -1,0 +1,1 @@
+ALTER TABLE post DROP FOREIGN KEY fk_user_id_post;
