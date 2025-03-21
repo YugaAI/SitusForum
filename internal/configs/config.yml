@@ -1,0 +1,6 @@
+service:
+  port: ":9876"
+  secretJWT: "SitusForum"
+
+database:
+  dataSourceName: "root:situsForum@tcp(localhost:3306)/SitusForum?parseTime=true"
